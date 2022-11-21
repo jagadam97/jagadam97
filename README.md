@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jagadam97" alt="jagadam97" /></a> </p>
 
-- 🌱 I’m currently learning **JAVA, ML**
+- 🌱 I’m currently learning **JAVA**
 
 - 💬 Ask me about **Software Testing**
 
