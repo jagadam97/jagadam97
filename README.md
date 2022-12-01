@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **JAVA**
 
+- :computer: Most used line of code `sudo apt update -y && sudo apt full-upgrade -y`
+
 - 💬 Ask me about **Software Testing**
 
 - 📫 How to reach me **dineshjagadam@gmail.com**
